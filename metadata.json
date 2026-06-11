@@ -1,0 +1,6 @@
+{
+  "name": "PassGen",
+  "description": "A responsive and elegant ticket and pass designer specifically optimized for high-contrast thermal receipts and label printers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
